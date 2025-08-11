@@ -434,8 +434,8 @@ function setupSmoothScrolling() {
 }
 
 const siteDiseases = [
-    { name: 'Psoriasis', path: 'psoriasis.html' }, { name: 'Acne', path: 'acne.html' },
-    { name: 'Eczema', path: 'eczema.html' }, { name: 'Ringworm', path: 'ringworm.html' },
+    { name: 'Psoriasis', path: 'https://github.com/MARIAM942/Derm-AI/blob/1d6d337f3cb377a99866bfee2e21c745770f84fb/psoriasis.html' }, { name: 'Acne', path: 'https://github.com/MARIAM942/Derm-AI/blob/1d6d337f3cb377a99866bfee2e21c745770f84fb/acne.html' },
+    { name: 'Eczema', path: 'https://github.com/MARIAM942/Derm-AI/blob/1d6d337f3cb377a99866bfee2e21c745770f84fb/eczema.html' }, { name: 'Ringworm', path: 'https://github.com/MARIAM942/Derm-AI/blob/1d6d337f3cb377a99866bfee2e21c745770f84fb/ringworm.html' },
     { name: 'Warts', path: 'https://github.com/MARIAM942/Derm-AI/blob/032867e7137839fa227a834571f96f62185efc29/warts.html' }
 ];
 
@@ -661,3 +661,4 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 // --- END OF script.js ---
+
