@@ -436,7 +436,7 @@ function setupSmoothScrolling() {
 const siteDiseases = [
     { name: 'Psoriasis', path: 'psoriasis.html' }, { name: 'Acne', path: 'acne.html' },
     { name: 'Eczema', path: 'eczema.html' }, { name: 'Ringworm', path: 'ringworm.html' },
-    { name: 'Warts', path: 'warts.html' }
+    { name: 'Warts', path: 'https://github.com/MARIAM942/Derm-AI/blob/032867e7137839fa227a834571f96f62185efc29/warts.html' }
 ];
 
 function setupSearchFunctionality() {
@@ -659,4 +659,5 @@ document.addEventListener('DOMContentLoaded', () => {
         userStatusP.textContent = translate("Not logged in");
     }
 });
+
 // --- END OF script.js ---
